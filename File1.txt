@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "this is the fucking file in the local repository"
+=======
+This is the repository in the GITHUB
+>>>>>>> ea0fbb3a86e16d23cd79a26dcdac50dcabc5dd0d
